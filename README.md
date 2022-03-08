@@ -1,4 +1,4 @@
-## Hi, contact me!
+#
 <a href="https://t.me/skechko">
   <img align="left" alt="telegram" width="45px" src="https://github.com/SKechko/SKechko/blob/main/icons/telegram-black.png">
 </a>
