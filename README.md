@@ -3,7 +3,6 @@
   <img align="left" alt="telegram" width="45px" src="https://github.com/SKechko/SKechko/blob/main/icons/telegram-black.png">
 </a>
 
-
 <a href="https://www.instagram.com/s_artemiev0309">
   <img align="left" alt="instagram" width="60px" src="https://github.com/SKechko/SKechko/blob/main/icons/instagram-icon-white-on-black-circle.png">
 </a>
